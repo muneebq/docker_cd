@@ -1,7 +1,6 @@
 [{
 "id": "webhook",
 "execute-command": "deploy.sh",
-#"command-working-directory": "/home/ubuntu/go",
 "command-working-directory": "/home/ubuntu/webhooks/deployment-tutorial/",
 "response-message": "Executing deploy script...",
 "trigger-rule": {
